@@ -1,5 +1,5 @@
 package com;
 
 public class TestClass {
-	public static String name = "aaaaaa bbbb cccc";
+	public static String name = "aaaaaa bbbb cccc dddd";
 }
