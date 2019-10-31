@@ -9,5 +9,6 @@
 </head>
 <body>
 	<%=TestClass.name %>
+	<%=TestClass.name2 %>
 </body>
 </html>
